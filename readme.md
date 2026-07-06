@@ -1,8 +1,5 @@
 ChordFinder
-Alexandra Delarge, I. ročník, sk. 58
-letní semestr 2025/26
-Programování 2 (NMIN112)
-2026
+Alexandra Delarge
 ----
 
 Jednoduchá virtuální klaviatura vytvořena pomocí Pythonu a knihovny tkinter.
